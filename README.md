@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Sou o Diego Chiodini 👋</h1>
-  <p><strong>Desenvolvedor Full Stack | Especialista em TypeScript, Next.js, Node.js e C# .NET</strong></p>
+  <p><strong>Desenvolvedor Full Stack | Especialista em TypeScript, Next.js, React, Node.js</strong></p>
   
   <p>
     <a href="https://github.com/dmchiodini">

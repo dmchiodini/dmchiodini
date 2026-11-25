@@ -6,7 +6,7 @@
     <a href="https://github.com/dmchiodini">
       <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-success?style=for-the-badge&logo=github" alt="Status">
     </a>
-    <a href="https://linkedin.com/in/diego-chiodini">
+    <a href="https://www.linkedin.com/in/diego-chiodini-724361184/">
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
   </p>
@@ -53,6 +53,7 @@ Desenvolvedor de software focado na construção de aplicações escaláveis, si
 | **[Além da Terra](https://github.com/dmchiodini/Al-mDaTerra)** | Survival RPG 2D em pixel art com visão top-down, construído com Godot e fluxos assistidos por IA. | Godot 4, GDScript, Pixel Art |
 | **[React Testing Suite](https://github.com/dmchiodini/react-tests)** | Suíte de testes unitários avançados simulando cenários complexos com cobertura de código. | React, Vitest, React Testing Library |
 | **[APICatalogo](https://github.com/dmchiodini/APICatalogo)** | Web API corporativa robusta desenvolvida com .NET Core e Entity Framework com documentação Swagger. | .NET Core, C#, EF Core, MySQL, Swagger |
+| **[Aquamania API](https://github.com/dmchiodini/aquamania)** | Backend RESTful de alta performance desenvolvido com .NET 8, Dapper e SQL Server. | .NET 8, C#, Dapper, SQL Server |
 
 ---
 

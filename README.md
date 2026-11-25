@@ -50,9 +50,7 @@ Desenvolvedor de software focado na construção de aplicações escaláveis, si
 |---|---|---|
 | **[Dermabichos Creche](https://github.com/dmchiodini/dermabichos-creche)** | SaaS completo de gestão operacional e acompanhamento em tempo real para creche canina com integração WhatsApp e portal para tutores. | Next.js, Supabase, TypeScript, Tailwind |
 | **[Dermabichos Check](https://github.com/dmchiodini/dermabichos-checklist)** | Sistema de checklist operacional com interface para tablet/recepção e painel administrativo protegido. | Next.js 16, React 19, Supabase, Tailwind v4 |
-| **[PetDev](https://github.com/dmchiodini/petdev)** | Landing page de alta conversão para serviços pet, 100% otimizada para SEO, performance e Schema.org. | Next.js, React, Tailwind CSS, SEO |
 | **[Além da Terra](https://github.com/dmchiodini/Al-mDaTerra)** | Survival RPG 2D em pixel art com visão top-down, construído com Godot e fluxos assistidos por IA. | Godot 4, GDScript, Pixel Art |
-| **[PortariaLink](https://github.com/dmchiodini/portariaLink-frontend)** | Sistema inteligente de portaria e controle de acesso com frontend responsivo e API dedicada. | Next.js, NestJS, TypeScript, REST API |
 | **[React Testing Suite](https://github.com/dmchiodini/react-tests)** | Suíte de testes unitários avançados simulando cenários complexos com cobertura de código. | React, Vitest, React Testing Library |
 | **[APICatalogo](https://github.com/dmchiodini/APICatalogo)** | Web API corporativa robusta desenvolvida com .NET Core e Entity Framework com documentação Swagger. | .NET Core, C#, EF Core, MySQL, Swagger |
 
